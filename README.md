@@ -40,26 +40,34 @@ https://github.com/Ess-KE/bank-marketing-campaign-analysis/blob/main/bank.csv
 
 ## Key Findings
 1. Previous Campaign Success Drives Future Success
-Customers with a previous successful campaign outcome achieved a conversion rate of 91.32%
+- Customers with a previous successful campaign outcome achieved a conversion rate of 91.32%
 
 2. Previous Engagement Matters
-Previously engaged customers: 67.12% and New prospects conversion rate is 40.65%
+- Previously engaged customers: 67.12% and New prospects conversion rate is 40.65%
 
 3. High-Balance Customers Convert More
-Balance Segment	Conversion Rate
+- Balance Segment	Conversion Rate:
+  
 High	57.49%
+
 Medium	48.05%
+
 Low	35.96%
 
 4. Housing Loans Reduce Subscription Likelihood
-Housing Loan	Conversion Rate
+- Housing Loan	Conversion Rate:
+  
 No	57.03%
+
 Yes	36.64%
 
 5. Cellular Communication Performs Best
-Contact Method	Conversion Rate
+- Contact Method	Conversion Rate:
+  
 Cellular	54.33%
+
 Telephone	50.39%
+
 Unknown	22.59%
 
 ## Recommendations
