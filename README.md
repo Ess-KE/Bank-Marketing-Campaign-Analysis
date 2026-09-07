@@ -42,11 +42,11 @@ https://github.com/Ess-KE/bank-marketing-campaign-analysis/blob/main/bank.csv
 1. Previous Campaign Success Drives Future Success
 - Customers with a previous successful campaign outcome achieved a conversion rate of 91.32%
 
-2. Previous Engagement Matters
+2. Previous Engagement Matters:
    
-  Previously engaged customers conversion rate is 67.12% 
+   Previously engaged customers conversion rate is 67.12% 
   
-  New prospects conversion rate is 40.65%
+   New prospects conversion rate is 40.65%
 
 3. High-Balance Customers Convert More
 - Balance Segment	Conversion Rate:
