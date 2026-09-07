@@ -48,27 +48,27 @@ https://github.com/Ess-KE/bank-marketing-campaign-analysis/blob/main/bank.csv
 3. High-Balance Customers Convert More
 - Balance Segment	Conversion Rate:
   
-High	57.49%
+  High	57.49%
 
-Medium	48.05%
+  Medium	48.05%
 
-Low	35.96%
+  Low	35.96%
 
 4. Housing Loans Reduce Subscription Likelihood
 - Housing Loan	Conversion Rate:
   
-No	57.03%
+  No	57.03%
 
-Yes	36.64%
+  Yes	36.64%
 
 5. Cellular Communication Performs Best
 - Contact Method	Conversion Rate:
   
-Cellular	54.33%
+  Cellular	54.33%
 
-Telephone	50.39%
+  Telephone	50.39%
 
-Unknown	22.59%
+  Unknown	22.59%
 
 ## Recommendations
 - Prioritize customers with successful previous campaign outcomes.
